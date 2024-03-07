@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <body style="background-color: gray;">
+        <h2>NäppäinKauppa</h2><br>
+        <p>Näppäin valikoima</p>
+
+        <figure>
+        <a href="näppäin.html">
+            <img src="https://th.bing.com/th/id/OIG1.nvKMQky1eCBA4WyAEzIM?pid=ImgGn" alt="Kuvateksti" width="250">
+        </a>
+            <figcaption>Kumiankka 0,75€</figcaption>
+        </figure><br>
+        <figure>
+            <a href="näppäin2.html">
+                <img src="https://th.bing.com/th/id/OIG1.ESDLO8K9OLZV3wtkvNlD?pid=ImgGn" alt="Kuvateksti" width="250">
+            </a>
+                <figcaption>Suomiankka 1,00€</figcaption>
+            </figure>
+    </body>
+</html>
