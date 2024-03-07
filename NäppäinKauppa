@@ -1,20 +1,29 @@
 <!DOCTYPE html>
-<html>
-    <body style="background-color: gray;">
-        <h2>NäppäinKauppa</h2><br>
-        <p>Näppäin valikoima</p>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Näppäinhattukauppa</title>
+</head>
+<body>
 
-        <figure>
-        <a href="näppäin.html">
-            <img src="https://th.bing.com/th/id/OIG1.nvKMQky1eCBA4WyAEzIM?pid=ImgGn" alt="Kuvateksti" width="250">
-        </a>
-            <figcaption>Kumiankka 0,75€</figcaption>
-        </figure><br>
-        <figure>
-            <a href="näppäin2.html">
-                <img src="https://th.bing.com/th/id/OIG1.ESDLO8K9OLZV3wtkvNlD?pid=ImgGn" alt="Kuvateksti" width="250">
-            </a>
-                <figcaption>Suomiankka 1,00€</figcaption>
-            </figure>
-    </body>
+  <h1>Tervetuloa Näppäinhattukauppaan!</h1>
+
+  <!-- Ensimmäinen tuotekuva ja linkki -->
+  <div>
+    <a href="tuote1.html">
+      <img src="nappainhattu1.jpg" alt="Näppäinhattu 1">
+    </a>
+    <p>Näppäinhattu 1</p>
+  </div>
+
+  <!-- Toinen tuotekuva ja linkki -->
+  <div>
+    <a href="tuote2.html">
+      <img src="nappainhattu2.jpg" alt="Näppäinhattu 2">
+    </a>
+    <p>Näppäinhattu 2</p>
+  </div>
+
+</body>
 </html>
