@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>NäppäinKauppa</title>
+ <body style="background-color: gray;">
+<link rel="icon" type="fas fa-heart" href="favicon.ico">
+
+</head>
+<body >
+<h1>NäppäinKauppa</h1>
+
+
+
+<p>
+
+	<a href="tuote1.html"><img src="https://th.bing.com/th/id/OIG1.nvKMQky1eCBA4WyAEzIM?w=270&h=270&c=6&r=0&o=5&pid=ImgGn"   width="200"></a>
+</p>
+
+
+
+</body>
+
+
+</html>
